@@ -7,3 +7,11 @@ My personal website, using astro and the [multiterm theme](https://github.com/st
 ## ⚖️ License
 
 This project is licensed under the [MIT License](LICENSE.txt).
+
+## TODO
+
+- [ ] Improve favicon
+- [ ] Update about me
+- [ ] Update landing page text
+- [ ] Write first blog post
+- [ ] Update github link in footer
