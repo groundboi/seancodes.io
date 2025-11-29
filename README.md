@@ -14,3 +14,4 @@ This project is licensed under the [MIT License](LICENSE.txt).
 - [ ] Update landing page text
 - [ ] Write first blog post
 - [ ] Update github link in footer
+- [ ] Clean up this repo - remove unneeded files, setup github actions for formatting/linting, add more badges, etc.
