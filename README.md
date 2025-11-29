@@ -10,7 +10,6 @@ This project is licensed under the [MIT License](LICENSE.txt).
 
 ## TODO
 
-- [ ] Improve favicon
 - [ ] Update about me
 - [ ] Update landing page text
 - [ ] Write first blog post
