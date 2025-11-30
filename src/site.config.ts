@@ -51,7 +51,7 @@ const config: SiteConfig = {
     },
     {
       name: 'GitHub',
-      url: 'https://github.com/groundboi/seancodes.io',
+      url: 'https://github.com/groundboi',
       external: true,
     },
   ],
