@@ -5,4 +5,4 @@ avatarImage:
 # githubCalendar: 'stelcodes'
 ---
 
-My small corner of the internet where I write about software engineering and security.
+My personal corner of the web where I write about software engineering, security and privacy, and other general tech musings. No AI filler.

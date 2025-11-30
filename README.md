@@ -2,7 +2,7 @@
 
 # seancodes.io
 
-My personal website, using astro and the [multiterm theme](https://github.com/stelcodes/multiterm-astro).
+My personal website, built using astro and the [multiterm theme](https://github.com/stelcodes/multiterm-astro).
 
 ## ⚖️ License
 
@@ -10,8 +10,7 @@ This project is licensed under the [MIT License](LICENSE.txt).
 
 ## TODO
 
-- [ ] Update about me
-- [ ] Update landing page text
-- [ ] Write first blog post
-- [ ] Update github link in footer
-- [ ] Clean up this repo - remove unneeded files, setup github actions for formatting/linting, add more badges, etc.
+- Update about me
+- Write first blog post - probably about the terminal tools I can't live without
+- Update github link in footer
+- Clean up this repo - remove unneeded files, readme, setup github actions for formatting/linting, add more badges, etc.
