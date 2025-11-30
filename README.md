@@ -12,5 +12,5 @@ This project is licensed under the [MIT License](LICENSE.txt).
 
 - Update about me
 - Write first blog post - probably about the terminal tools I can't live without
-- Update github link in footer
-- Clean up this repo - remove unneeded files, readme, setup github actions for formatting/linting, add more badges, etc.
+- Clean up this repo - remove unneeded files, update readme, setup github actions for formatting/linting/secret scanning, add more badges, etc.
+- Register the domain for emails

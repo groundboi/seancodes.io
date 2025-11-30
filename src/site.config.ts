@@ -160,7 +160,7 @@ const config: SiteConfig = {
   },
   // Social links to display in the footer.
   socialLinks: {
-    github: 'https://github.com/stelcodes/multiterm-astro',
+    github: 'https://github.com/groundboi',
     // mastodon: 'https://github.com/stelcodes/multiterm-astro',
     email: 'sean@iusevimbtw.com',
     // linkedin: 'https://github.com/stelcodes/multiterm-astro',
