@@ -10,6 +10,5 @@ This project is licensed under the [MIT License](LICENSE.txt).
 
 ## TODO
 
-- Write first blog post (probably about my favorite terminal tools and processes)
 - Clean up this repo - remove unneeded files, update readme, setup github actions for formatting/linting, add more badges, etc.
 - Register my domain for emails
