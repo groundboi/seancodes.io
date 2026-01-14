@@ -3,7 +3,7 @@ title: 'Using devcontainers for easy cross-compilation'
 published: 2025-01-14
 #update:
 draft: false
-description: 'How I fixed needing to build for Linux x86_64 from an ARM Mac'
+description: 'How I handled needing to build for Linux x86_64 from an ARM Mac.'
 #tags: ['javascript']
 #series:
 #author:
