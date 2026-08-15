@@ -15,6 +15,8 @@ https://nolanlawson.com/2026/02/07/we-mourn-our-craft/ and https://blog.alaindic
 
 primeagan also had an interesting take that AI is a "multiplier" between that takes your engineer quality between -1 and 1. So it makes "net negative" engineers have more catastrophic effects, and net positive engineers accomplish more.
 
+https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html
+
 https://htmx.org/essays/yes-and/
 
 A few other points to touch on:
